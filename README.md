@@ -1,4 +1,4 @@
-# Telegram Gemini Bot
+# Telegram Bot
 
 A simple Telegram bot that uses Google's Gemini 1.5 Flash model for AI chat.
 
