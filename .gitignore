@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables - DO NOT COMMIT YOUR SECRETS
+.env
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
